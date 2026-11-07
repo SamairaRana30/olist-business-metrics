@@ -9,7 +9,7 @@ SQL and Python analysis of the public **Olist Brazilian e-commerce dataset** (ab
 | Metric | Finding |
 |---|---|
 | Revenue | R$112k (Jan 2017) to R$988k (Nov 2017), then flat at about R$0.83M to R$0.98M a month. Black Friday 2017 alone was about 15% of that month. |
-| AOV | Flat at R$126 to R$145: growth came from more orders, not bigger baskets. |
+| AOV | Roughly flat at R$125 to R$150: growth came from more orders, not bigger baskets. |
 | LTV | About R$165 per customer. Repeat customers are worth R$309 vs R$161 for one-time buyers, but only 3% repeat. |
 | Customers | 96,096 real customers (`customer_unique_id`). Counting `customer_id` overstates by 3.5%. |
 | NPS (proxy from reviews) | +38 overall: +45 on time, **-43 when late**. 8% of deliveries are late. |
