@@ -32,7 +32,7 @@ Instead, it becomes:
 
 2. Average Order Value (AOV): Customers Didn't Spend More
 
-While order volume grew significantly, Average Order Value remained mostly unchanged, fluctuating between roughly R$126 and R$145.
+While order volume grew significantly, Average Order Value remained mostly unchanged, fluctuating between roughly R$125 and R$150.
 
 This means revenue growth came almost entirely from more orders rather than larger purchases.
 
